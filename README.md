@@ -9,3 +9,6 @@
   - [Last Digit of a Large Fibonacci Number](https://github.com/valery-iv/algo-toolbox/tree/master/scr/W2/Last%20Digit%20of%20a%20Large%20Fibonacci%20Number)
   - [Greatest Common Divisor](https://github.com/valery-iv/algo-toolbox/tree/master/scr/W2/Greatest%20Common%20Division)
   - [Least Common Multiple](https://github.com/valery-iv/algo-toolbox/tree/master/scr/W2/Least%20Common%20Multiple)
+  
+* Week 3
+  - [Money Change](https://github.com/valery-iv/algo-toolbox/tree/master/scr/W3/Money%20Change)

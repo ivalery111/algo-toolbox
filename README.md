@@ -12,3 +12,4 @@
   
 * Week 3
   - [Money Change](https://github.com/valery-iv/algo-toolbox/tree/master/scr/W3/Money%20Change)
+  - [Maximum Value Of The Loot](https://github.com/valery-iv/algo-toolbox/tree/master/scr/W3/Maximum%20Value%20Of%20The%20Loot)

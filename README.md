@@ -1,4 +1,6 @@
-# My solutions for ["Algorithmic Toolbox"'s](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome) problems.
+# Coursera: Algorithmic Toolbox
+
+Solutions for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome). The solutions are in C++.
 
 * Week 1
   - [Sum of Two Digits](https://github.com/valery-iv/algo-toolbox/tree/master/src/W1/Sum%20of%20Two%20Digits)

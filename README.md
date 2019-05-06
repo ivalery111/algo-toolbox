@@ -18,3 +18,6 @@
 * Week 4
   - [Binary Search](https://github.com/valery-iv/algo-toolbox/tree/master/src/W4/Binary%20Search)
   - [Improving Quick Sort](https://github.com/valery-iv/algo-toolbox/tree/master/src/W4/Improving%20QuickSort)
+  
+* Week 5
+  - [Money Change Again](https://github.com/valery-iv/algo-toolbox/tree/master/src/W5/Money%20Change%20DP)

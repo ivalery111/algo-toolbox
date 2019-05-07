@@ -1,4 +1,6 @@
-# My solutions for ["Algorithmic Toolbox"'s](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome) problems.
+# Coursera: Algorithmic Toolbox
+
+Solutions for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome). The solutions are in C++.
 
 * Week 1
   - [Sum of Two Digits](https://github.com/valery-iv/algo-toolbox/tree/master/src/W1/Sum%20of%20Two%20Digits)
@@ -18,3 +20,6 @@
 * Week 4
   - [Binary Search](https://github.com/valery-iv/algo-toolbox/tree/master/src/W4/Binary%20Search)
   - [Improving Quick Sort](https://github.com/valery-iv/algo-toolbox/tree/master/src/W4/Improving%20QuickSort)
+  
+* Week 5
+  - [Money Change Again](https://github.com/valery-iv/algo-toolbox/tree/master/src/W5/Money%20Change%20DP)

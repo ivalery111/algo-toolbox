@@ -23,3 +23,5 @@ Solutions for the course [Algorithmic Toolbox](https://www.coursera.org/learn/al
   
 * Week 5
   - [Money Change Again](https://github.com/valery-iv/algo-toolbox/tree/master/src/W5/Money%20Change%20DP)
+  - [LCS](https://github.com/valery-iv/algo-toolbox/tree/master/src/W5/LCS)
+  - [Edit Distance](https://github.com/valery-iv/algo-toolbox/tree/master/src/W5/Edit%20Distance)

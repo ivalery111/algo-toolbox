@@ -25,3 +25,6 @@ Solutions for the course [Algorithmic Toolbox](https://www.coursera.org/learn/al
   - [Money Change Again](https://github.com/valery-iv/algo-toolbox/tree/master/src/W5/Money%20Change%20DP)
   - [LCS](https://github.com/valery-iv/algo-toolbox/tree/master/src/W5/LCS)
   - [Edit Distance](https://github.com/valery-iv/algo-toolbox/tree/master/src/W5/Edit%20Distance)
+  
+* Week 6
+  - [Maximum Amount Of Gold](https://github.com/valery-iv/algo-toolbox/tree/master/src/W6/Maximum%20Amount%20Of%20Gold)
